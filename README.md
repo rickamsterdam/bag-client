@@ -91,7 +91,7 @@ For that reason, each of those inputs have been separated out into separate type
 - cookie_params
 
 So when updating your code, you will need to pass endpoint parameters in using those
-dictionaries.
+dictionaries
 
 ### Endpoint responses
 Endpoint responses have been enriched to now include more information.
